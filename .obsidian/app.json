@@ -44,9 +44,10 @@
     "editor:insert-footnote"
   ],
   "promptDelete": true,
-  "trashOption": "system",
+  "trashOption": "local",
   "showUnsupportedFiles": true,
   "propertiesInDocument": "visible",
   "newLinkFormat": "absolute",
-  "attachmentFolderPath": "Images"
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
 }

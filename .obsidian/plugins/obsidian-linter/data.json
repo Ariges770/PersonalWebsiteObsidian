@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "author: Ari Gestetner\naliases: \ntags: \npublish: false"
+      "text-to-insert": "author: Ari Gestetner\naliases: \ntags: \npublish: false\nimg:\ndesc:"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -270,7 +270,7 @@
       "enabled": false
     }
   },
-  "lintOnSave": false,
+  "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "lintOnFileChange": true,

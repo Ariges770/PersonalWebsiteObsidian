@@ -1,7 +1,22 @@
-This is your new *vault*.
+---
+img:
+desc:
+author: Ari Gestetner
+aliases: 
+tags: 
+publish: false
+date-created: 28-12-2025
+last-modified: 28-12-2025
+---
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+# Welcome to my website
 
-When you're ready, delete this note and make the vault your own.
+Hello and welcome to my personal website! 
 
-And this is testing if the repo works
+<!--more-->
+
+On this site, you'll find a collection of my notes, projects, and blog posts where I share my thoughts on various topics based on my experiences and interests.  
+
+I am still in the process of building and expanding this site, so appologies for any incomplete sections you may encounter.
+
+Feel free to explore the different sections, leave comments, and reach out if you'd like to connect. I'm excited to share my work with you!
