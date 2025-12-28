@@ -10,8 +10,6 @@ dateCreated: 28-12-2025
 lastModified: 28-12-2025
 ---
 
-
-
 # Shipping
 
 This is a test for this site $a=b+c$

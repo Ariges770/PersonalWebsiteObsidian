@@ -256,9 +256,32 @@
               "icon": "lucide-file",
               "title": "Shipping"
             }
+          },
+          {
+            "id": "405fa041eb03a4b1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025S2 Timetable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025S2 Timetable"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -539,10 +562,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "40798ab904fee4fe",
+  "active": "405fa041eb03a4b1",
   "lastOpenFiles": [
-    "Blog/Projects/Packware/attachments/Shipping.png",
     "Blog/Projects/Packware/Shipping.md",
+    "2025S2 Timetable.md",
+    "Blog/Projects/Packware/attachments/Shipping.png",
     "Blog/Projects/Packware/attachments",
     "Welcome.md",
     "attachments/Welcome.png",
@@ -551,7 +575,6 @@
     "Blog/Projects",
     "Blog",
     "Test.md",
-    "2025S2 Timetable.md",
     "Econometrics/ETC3400/Week 12.md",
     "Data Science/FIT3154/Assignment 2.md",
     "Data Science/FIT3179/(AK Peters Visualization Series) Tamara Munzner - Visualization Analysis and Design-A K Peters_CRC Press (2014).pdf",
