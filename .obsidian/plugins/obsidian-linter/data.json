@@ -32,7 +32,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "author: Ari Gestetner\naliases: \ntags: \npublish: false\nimg:\ndesc:"
+      "text-to-insert": "author: Ari Gestetner\naliases: \ntags: \ndraft: true\nimg:\ndesc:"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -60,17 +60,17 @@
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "date-created",
+      "date-created-key": "dateCreated",
       "date-created-source-of-truth": "file system",
       "date-modified": true,
-      "date-modified-key": "last-modified",
+      "date-modified-key": "lastModified",
       "date-modified-source-of-truth": "file system",
       "format": "DD-MM-YYYY",
       "convert-to-utc": false,
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
-      "enabled": false,
+      "enabled": true,
       "title-key": "title",
       "mode": "first-h1-or-filename-if-h1-missing"
     },

@@ -1,12 +1,21 @@
 ---
+draft: false
 author: Ari Gestetner
-aliases: 
-tags: 
-publish: false
+aliases:
+tags:
 img:
 desc:
-date-created: 28-12-2025
-last-modified: 28-12-2025
+title: Shipping
+dateCreated: 28-12-2025
+lastModified: 28-12-2025
 ---
 
 # Shipping
+
+This is a test for this site $a=b+c$
+
+Also
+
+$$
+\frac{ \partial y }{ \partial x } = \nabla f(x,y)
+$$

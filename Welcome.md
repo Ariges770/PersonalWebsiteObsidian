@@ -1,12 +1,13 @@
 ---
+draft: false
 img:
 desc:
 author: Ari Gestetner
-aliases: 
-tags: 
-publish: false
-date-created: 28-12-2025
-last-modified: 28-12-2025
+aliases:
+tags:
+title: Welcome to my website
+dateCreated: 28-12-2025
+lastModified: 28-12-2025
 ---
 
 # Welcome to my website
