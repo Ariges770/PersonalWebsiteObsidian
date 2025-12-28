@@ -42,6 +42,36 @@
                 },
                 {
                   "title": "Welcome",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"attachments/Welcome.png\"},\"icon\":\"lucide-image\",\"title\":\"Welcome\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Welcome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":48},\"to\":{\"line\":23,\"ch\":48}},\"scroll\":18.097605686476953}"
+                },
+                {
+                  "title": "Shipping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Packware/Shipping.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shipping\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Welcome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Shipping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Packware/Shipping.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shipping\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":10},\"to\":{\"line\":12,\"ch\":10}},\"scroll\":0}"
+                },
+                {
+                  "title": "Welcome",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":7.6705374254600205}"
@@ -201,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Projects/Packware/Shipping.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shipping"
+              "title": "Welcome"
             }
           }
         ],
@@ -493,7 +523,9 @@
   },
   "active": "40798ab904fee4fe",
   "lastOpenFiles": [
+    "attachments/Welcome.png",
     "Welcome.md",
+    "attachments",
     "Blog/Projects/Packware/Shipping.md",
     "Blog/Projects/Packware",
     "Blog/Projects",
@@ -526,8 +558,6 @@
     "Untitled.base",
     "OMSCS/Self Learning/Resources.md",
     "Econometrics/ETC3580/Nonparametric Inference.md",
-    "Econometrics/ETC3580/Nonparametric Regression.md",
-    "Econometrics/ETC3580/Random Effects.md",
-    "Data Science/FIT3179/Assignment 2"
+    "Econometrics/ETC3580/Nonparametric Regression.md"
   ]
 }

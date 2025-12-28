@@ -1,7 +1,7 @@
 ---
 draft: false
-img:
-desc:
+img: attachments/Welcome.png
+desc: Welcome to my website
 author: Ari Gestetner
 aliases:
 tags:
