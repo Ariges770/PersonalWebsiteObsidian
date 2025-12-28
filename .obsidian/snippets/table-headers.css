@@ -1,0 +1,12 @@
+
+@media print {
+    th thead {
+        color: black;
+        background-color: blueviolet;
+    }
+    
+    td tbody {
+        color: black;
+        background-color: indianred;
+    }
+}

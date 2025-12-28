@@ -1,0 +1,21 @@
+/* Page breaks */
+@media print {
+    /* h2:first-of-type { 
+        background-color: black;
+        page-break-before: avoid;
+    } */
+    /* h2 { 
+        page-break-before: always;
+    } */
+    .hr {
+        background-color: brown;
+        /* page-break-before: always; */
+    }
+    h1, h3, h4, h5, h6 {
+        page-break-before: avoid;
+    }
+    /* optional */
+    .internal-embed{
+        page-break-after: avoid;
+        page-break-before: avoid;}
+  }

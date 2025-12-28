@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "c191c84c007a911f",
+    "type": "split",
+    "children": [
+      {
+        "id": "42cd285474081938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ec503303b333b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d03fff97b6e9a9e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "da637c16eb8761ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a046671f5555d5e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3ab8fb83429d27a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f826f611a006fb1a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fa858a563b0ceeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "805987a5185198e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1171cd57ff7b8720",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "f83637e1d48fcd48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "eb9156c3d3b855cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "baf66defdc0166d1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0bdf9114a390ee92",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "a585572b818088ad",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "58a7c1034bc224de",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Data Science/FIT3179/(AK Peters Visualization Series) Tamara Munzner - Visualization Analysis and Design-A K Peters_CRC Press (2014).pdf"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "09ec503303b333b7",
+  "lastOpenFiles": [
+    "2025S2 Timetable.md",
+    "Econometrics/ETC3400/Week 12.md",
+    "Data Science/FIT3154/Assignment 2.md",
+    "Data Science/FIT3179/(AK Peters Visualization Series) Tamara Munzner - Visualization Analysis and Design-A K Peters_CRC Press (2014).pdf",
+    "Econometrics/ETC3400/Assignment 3.md",
+    "Econometrics/ETC3400/Assignment 3.pdf",
+    "Data Science/FIT3179/Assignment 2/Assignment 2.md",
+    "Econometrics/ETC3400/Assignment 1.md",
+    "Econometrics/ETC3400/Assignment 2.md",
+    "Data Science/FIT3154/Assignment 1.md",
+    "Politics/Fbi.md",
+    "Data Science/FIT3154/Index.md",
+    "Research/Potential Projects.md",
+    "Politics",
+    "Data Science/FIT3154/Introduction & Statistical Decision Theory.md",
+    "Research/Conformal Prediction/Reading.md",
+    "Research/Conformal Prediction",
+    "Econometrics/ETC3400/Week 6 Lecture.md",
+    "Research",
+    "Research/SummerResearch2023/Summer research notes.md",
+    "Research/WinterResearch2024/TODO.md",
+    "Untitled.md",
+    "Quotes.md",
+    "TODO.md",
+    "AIM/2025Sem2/Enhancing diagnosis ensemble deep-learning model for fracture detection using X-ray images.md",
+    "Untitled.base",
+    "OMSCS/Self Learning/Resources.md",
+    "Econometrics/ETC3580/Nonparametric Inference.md",
+    "Econometrics/ETC3580/Nonparametric Regression.md",
+    "Econometrics/ETC3580/Random Effects.md",
+    "Data Science/FIT3179/Assignment 2"
+  ]
+}

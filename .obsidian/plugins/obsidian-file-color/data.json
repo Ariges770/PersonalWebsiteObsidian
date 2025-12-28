@@ -1,0 +1,39 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "26REdWhXPUkSA4a1ZQ8j4",
+      "name": "Red",
+      "value": "#ea2e2e"
+    },
+    {
+      "id": "uHRIprL08y6t3Hus2nsei",
+      "name": "Cyan",
+      "value": "#009dbd"
+    },
+    {
+      "id": "sLhQIwMbDs-fiZmFPSvGR",
+      "name": "Gold",
+      "value": "#8c881d"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Econometrics",
+      "color": "uHRIprL08y6t3Hus2nsei"
+    },
+    {
+      "path": "Data Science",
+      "color": "sLhQIwMbDs-fiZmFPSvGR"
+    },
+    {
+      "path": "Computer Science",
+      "color": "26REdWhXPUkSA4a1ZQ8j4"
+    },
+    {
+      "path": "Maths",
+      "color": "uHRIprL08y6t3Hus2nsei"
+    }
+  ]
+}

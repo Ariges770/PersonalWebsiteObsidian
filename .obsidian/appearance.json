@@ -1,0 +1,12 @@
+{
+  "accentColor": "#558b7e",
+  "enabledCssSnippets": [
+    "page-breaks"
+  ],
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "translucency": true,
+  "cssTheme": "Obsidianite",
+  "textFontFamily": "Rubik",
+  "nativeMenus": false
+}
