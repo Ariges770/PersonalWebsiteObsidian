@@ -3,12 +3,14 @@ draft: false
 author: Ari Gestetner
 aliases:
 tags:
-img:
+img: Blog/Projects/Packware/attachments/Shipping.png
 desc:
 title: Shipping
 dateCreated: 28-12-2025
 lastModified: 28-12-2025
 ---
+
+
 
 # Shipping
 
