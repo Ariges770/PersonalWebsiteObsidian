@@ -11,11 +11,3 @@ lastModified: 28-12-2025
 ---
 
 # Shipping
-
-This is a test for this site $a=b+c$
-
-Also
-
-$$
-\frac{ \partial y }{ \partial x } = \nabla f(x,y)
-$$
