@@ -80,4 +80,17 @@ lastModified: 29-12-2025
 ## Resume
 
 - [ ] Create quarto template
-- [ ] Create latex, markdown and docx resume outputs%  
+- [ ] Create latex, markdown and docx resume outputs
+
+## Things to know about packware data
+
+- Melb above $100 is free shipping
+- Look at main cities (Syd, Melb, Bris, Perth, Adelaide, Hobart, Canberra) 
+- Find recommended free shipping options per metro
+- Look at shopify quote compared to final cost
+
+## Projects
+
+### 3179 A2
+
+- [ ] Add new header template to allow for full page display for this project as well as potential others

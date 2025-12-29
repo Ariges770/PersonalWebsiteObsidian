@@ -55,7 +55,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":67},\"to\":{\"line\":20,\"ch\":67}},\"scroll\":11.972282382684979}"
                 },
                 {
@@ -67,7 +67,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":48},\"to\":{\"line\":23,\"ch\":48}},\"scroll\":18.097605686476953}"
                 },
                 {
@@ -79,7 +79,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -91,7 +91,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":7.6705374254600205}"
                 },
                 {
@@ -103,7 +103,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -115,7 +115,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -127,7 +127,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
@@ -139,7 +139,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -151,7 +151,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":true},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":22},\"to\":{\"line\":7,\"ch\":22}},\"scroll\":1.8166887015350595}"
                 },
                 {
@@ -163,7 +163,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
                 },
                 {
@@ -175,7 +175,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":1.0034413307075583}"
                 },
                 {
@@ -187,7 +187,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":15,\"ch\":11}},\"scroll\":14.914761208533616}"
                 },
                 {
@@ -199,7 +199,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 },
                 {
@@ -211,7 +211,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":2.4108654732877746}"
                 },
                 {
@@ -223,7 +223,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":6},\"to\":{\"line\":11,\"ch\":6}},\"scroll\":4.222272591110981}"
                 },
                 {
@@ -235,7 +235,7 @@
                 {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":64},\"to\":{\"line\":15,\"ch\":64}},\"scroll\":0}"
                 },
                 {
@@ -297,9 +297,45 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
                   "title": "Welcome",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":94,\"ch\":105},\"to\":{\"line\":94,\"ch\":105}},\"scroll\":83.36960263855381}"
+                },
+                {
+                  "title": "n8n",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Sero/n8n.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"n8n\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":5.934267507606293}"
+                },
+                {
+                  "title": "TODO",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TODO.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TODO\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.013335432545597334}"
+                },
+                {
+                  "title": "n8n",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Sero/n8n.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"n8n\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":99},\"to\":{\"line\":16,\"ch\":99}},\"scroll\":6.040951124700417}"
+                },
+                {
+                  "title": "Welcome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
@@ -601,8 +637,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -622,11 +657,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f50756a4c163da1a",
+  "active": "a046671f5555d5e1",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Blog/Projects/Sero/n8n.md",
+    "Research",
     "TODO.md",
+    "Blog/Welcome.md",
+    "Blog/Projects/Sero/n8n.md",
     "Blog/Projects/Sero",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
