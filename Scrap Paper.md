@@ -14,3 +14,10 @@ lastModified: 30-12-2025
 ## Deistel  
 
 The number of edges in $K^{5}$ can be found using the handshaking lemma, $\sum_{i=1}^{5}(4) = 2\cdot|E| \implies |E|=\frac{5\cdot4}{2}=10$ 
+
+
+## Packware Text
+
+In the website data we can see the cost of shipping to Melbourne for products over $\$100$
+
+Thus we will add a column calculating the shipping percentage is of  the base cost, then use that to find an ideal price to set to provide free shipping.
