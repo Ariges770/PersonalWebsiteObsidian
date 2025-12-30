@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "TODO",
-      "kind": "File",
+      "kind": "Daily Note",
       "openOnStartup": true,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
