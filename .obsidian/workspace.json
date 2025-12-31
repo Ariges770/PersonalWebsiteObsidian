@@ -16,18 +16,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2025-12-31",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-12-31.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-12-31\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Setting Up N8N For Local Use",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/N8N/Setting Up N8N For Local Use.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Setting Up N8N For Local Use\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2025-12-30",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Language/Hebrew/Journal/2025-12-30.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-12-30\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":146},\"to\":{\"line\":13,\"ch\":146}},\"scroll\":0.9353434625499977}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Hebrew/Journal/2025-12-30.md",
+                "file": "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-30"
+              "title": "Setting Up N8N For Local Use"
             }
           }
         ]
@@ -314,9 +332,13 @@
   },
   "active": "a046671f5555d5e1",
   "lastOpenFiles": [
+    "Untitled",
+    "2025-12-31.md",
+    "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
+    "Language/Hebrew/Journal/2025-12-30.md",
+    "Blog/Projects/N8N",
     "Language/Hebrew/Journal/Corrected",
     "Language/Hebrew/Journal",
-    "Language/Hebrew/Journal/2025-12-30.md",
     "Language/Hebrew",
     "Language",
     "Scrap Paper.md",
@@ -333,8 +355,6 @@
     "attachments/Welcome.png",
     "attachments",
     "Blog/Projects/Packware",
-    "Blog/Projects",
-    "Blog",
     "Test.md",
     "Econometrics/ETC3400/Week 12.md",
     "Data Science/FIT3154/Assignment 2.md",
@@ -350,8 +370,6 @@
     "Research/Conformal Prediction/Reading.md",
     "Econometrics/ETC3400/Week 6 Lecture.md",
     "Research/SummerResearch2023/Summer research notes.md",
-    "Research/WinterResearch2024/TODO.md",
-    "Quotes.md",
-    "AIM/2025Sem2/Enhancing diagnosis ensemble deep-learning model for fracture detection using X-ray images.md"
+    "Research/WinterResearch2024/TODO.md"
   ]
 }
