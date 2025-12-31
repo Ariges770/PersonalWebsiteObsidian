@@ -39,6 +39,6 @@ docker run -d \
  -e TZ="Australia/Melbourne" \
  -e N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true \
  -v n8n_data:/home/node/.n8n \
- -v "/mnt/c/Users/My Name/Documents/Obsidian:/data/obsidian" \
+ -v "/mnt/c/Users/My Name/Documents/Obsidian:/home/node/obsidian" \
  docker.n8n.io/n8nio/n8n
 ```  
