@@ -42,4 +42,3 @@ docker run -d \
  -v "/mnt/c/Users/My Name/Documents/Obsidian:/data/obsidian" \
  docker.n8n.io/n8nio/n8n
 ```  
-
