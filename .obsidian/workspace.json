@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Hebrew/2025-12-30.md",
+                "file": "Language/Hebrew/Journal/2025-12-30.md",
                 "mode": "source",
                 "source": false
               },
@@ -312,9 +312,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "20466e93f465697c",
+  "active": "a046671f5555d5e1",
   "lastOpenFiles": [
-    "Language/Hebrew/2025-12-30.md",
+    "Language/Hebrew/Journal/Corrected",
+    "Language/Hebrew/Journal",
+    "Language/Hebrew/Journal/2025-12-30.md",
     "Language/Hebrew",
     "Language",
     "Scrap Paper.md",
@@ -336,7 +338,6 @@
     "Test.md",
     "Econometrics/ETC3400/Week 12.md",
     "Data Science/FIT3154/Assignment 2.md",
-    "Data Science/FIT3179/(AK Peters Visualization Series) Tamara Munzner - Visualization Analysis and Design-A K Peters_CRC Press (2014).pdf",
     "Econometrics/ETC3400/Assignment 3.md",
     "Data Science/FIT3179/Assignment 2/Assignment 2.md",
     "Econometrics/ETC3400/Assignment 1.md",
