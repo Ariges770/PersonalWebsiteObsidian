@@ -143,6 +143,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a585572b818088ad",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "1171cd57ff7b8720",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -157,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Setting Up N8N For Local Use"
             }
           },
           {
@@ -265,25 +284,6 @@
             }
           },
           {
-            "id": "a585572b818088ad",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "58a7c1034bc224de",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -304,8 +304,7 @@
               "title": "Footnotes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -330,7 +329,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "20466e93f465697c",
   "lastOpenFiles": [
     "Drafts",
     "2025-12-31.md",
