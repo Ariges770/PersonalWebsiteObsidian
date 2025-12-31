@@ -11,3 +11,5 @@ lastModified: 31-12-2025
 ---
 
 # Setting Up N8N For Local Use
+
+In order to setup 
