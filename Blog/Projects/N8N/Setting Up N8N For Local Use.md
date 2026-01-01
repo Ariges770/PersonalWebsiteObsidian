@@ -7,7 +7,7 @@ img:
 desc:
 title: Setting Up N8N For Local Use
 dateCreated: 31-12-2025
-lastModified: 31-12-2025
+lastModified: 01-01-2026
 ---
 
 # Setting Up N8N For Local Use
@@ -42,7 +42,6 @@ docker run -d \
  -v "/mnt/c/Users/My Name/Documents/Obsidian:/home/node/obsidian" \
  docker.n8n.io/n8nio/n8n
 ```  
-
 
 ```yaml
 services:
