@@ -8,59 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20466e93f465697c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Scrap Paper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scrap Paper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scrap Paper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":1.7469417222467551}"
-                },
-                {
-                  "title": "Setting Up N8N For Local Use",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/N8N/Setting Up N8N For Local Use.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Setting Up N8N For Local Use\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":55},\"to\":{\"line\":41,\"ch\":55}},\"scroll\":25.783252839128732}"
-                },
-                {
-                  "title": "2025-12-31",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-12-31.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-12-31\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Setting Up N8N For Local Use",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/N8N/Setting Up N8N For Local Use.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Setting Up N8N For Local Use\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "2025-12-30",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Language/Hebrew/Journal/2025-12-30.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-12-30\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":146},\"to\":{\"line\":13,\"ch\":146}},\"scroll\":0.9353434625499977}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Setting Up N8N For Local Use"
-            }
-          },
-          {
             "id": "0393c0eace8a114d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -69,6 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Welcome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":99},\"to\":{\"line\":18,\"ch\":99}},\"scroll\":10.148264364417331}"
                 },
                 {
                   "title": "Scrap Paper",
@@ -97,18 +50,16 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Blog/Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "Base.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-table",
+              "title": "Base"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -389,11 +340,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0393c0eace8a114d",
+  "active": "a046671f5555d5e1",
   "lastOpenFiles": [
+    "Blog/Welcome.md",
+    "Base.base",
     "Scrap Paper.md",
     "Blog/Projects/Sero/n8n.md",
-    "Blog/Welcome.md",
     "2026-01-01.md",
     "Research/WeeklyPaper",
     "2025-12-31.md",
@@ -412,7 +364,6 @@
     "2025S2 Timetable.md",
     "Blog/Projects/Packware/Shipping.md",
     "Blog/Projects/Packware/attachments/Shipping.png",
-    "Blog/Projects/Packware/attachments",
     "attachments/Welcome.png",
     "Test.md",
     "Econometrics/ETC3400/Week 12.md",
