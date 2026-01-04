@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "2026-01-04",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-04.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-04\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Bezout's Identity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Drafts/To Learn/Bezout's Identity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bezout's Identity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Base",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Base.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Base\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"selection\":null,\"activeCell\":{\"groupIdx\":0,\"row\":2,\"column\":1}}}}"
+                },
+                {
                   "title": "Welcome",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
@@ -50,13 +68,14 @@
               ]
             },
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Base.base",
-                "viewName": "Table"
+                "file": "Drafts/To Learn/Bezout's Identity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Base"
+              "icon": "lucide-file",
+              "title": "Bezout's Identity"
             }
           }
         ]
@@ -340,13 +359,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "0393c0eace8a114d",
   "lastOpenFiles": [
-    "Blog/Welcome.md",
+    "2026-01-04.md",
+    "Drafts/To Learn/Bezout's Identity.md",
+    "2026-01-01.md",
     "Base.base",
+    "Drafts/To Learn",
+    "Blog/Welcome.md",
     "Scrap Paper.md",
     "Blog/Projects/Sero/n8n.md",
-    "2026-01-01.md",
     "Research/WeeklyPaper",
     "2025-12-31.md",
     "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
@@ -359,7 +381,6 @@
     "Language",
     "TODO.md",
     "Research",
-    "Blog/Projects/Sero",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
     "Blog/Projects/Packware/Shipping.md",
@@ -378,7 +399,6 @@
     "Research/Potential Projects.md",
     "Data Science/FIT3154/Introduction & Statistical Decision Theory.md",
     "Research/Conformal Prediction/Reading.md",
-    "Econometrics/ETC3400/Week 6 Lecture.md",
-    "Research/SummerResearch2023/Summer research notes.md"
+    "Econometrics/ETC3400/Week 6 Lecture.md"
   ]
 }
