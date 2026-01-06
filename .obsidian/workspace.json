@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1afc29560ecda85c",
+        "id": "8372c39b5ce51ea8",
         "type": "tabs",
         "children": [
           {
-            "id": "0393c0eace8a114d",
+            "id": "e8f1c5e822c512e4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,69 +16,45 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "2026-01-04",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-04.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-04\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Bezout's Identity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Drafts/To Learn/Bezout's Identity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Bezout's Identity\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-                },
-                {
-                  "title": "Base",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"Base.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Base\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"selection\":null,\"activeCell\":{\"groupIdx\":0,\"row\":2,\"column\":1}}}}"
-                },
-                {
-                  "title": "Welcome",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":99},\"to\":{\"line\":18,\"ch\":99}},\"scroll\":10.148264364417331}"
-                },
-                {
-                  "title": "Scrap Paper",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scrap Paper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scrap Paper\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.013335432545597334}"
-                },
-                {
-                  "title": "n8n",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Sero/n8n.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"n8n\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":8.29463919225442}"
-                },
-                {
-                  "title": "Welcome",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Welcome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Welcome\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":14.573198856506098}"
-                },
-                {
-                  "title": "2026-01-01",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-01.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-01\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drafts/To Learn/Bezout's Identity.md",
+                "file": "2026-01-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bezout's Identity"
+              "title": "2026-01-04"
+            }
+          },
+          {
+            "id": "92b87182b0613700",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-06.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-06"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -359,9 +335,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0393c0eace8a114d",
+  "active": "92b87182b0613700",
   "lastOpenFiles": [
     "2026-01-04.md",
+    "2026-01-06.md",
     "Drafts/To Learn/Bezout's Identity.md",
     "2026-01-01.md",
     "Base.base",
@@ -398,7 +375,6 @@
     "Data Science/FIT3154/Index.md",
     "Research/Potential Projects.md",
     "Data Science/FIT3154/Introduction & Statistical Decision Theory.md",
-    "Research/Conformal Prediction/Reading.md",
-    "Econometrics/ETC3400/Week 6 Lecture.md"
+    "Research/Conformal Prediction/Reading.md"
   ]
 }
