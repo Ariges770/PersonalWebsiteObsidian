@@ -4,6 +4,49 @@
     "type": "split",
     "children": [
       {
+        "id": "7d311bc0b16db984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92b87182b0613700",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "978-3-031-95973-8",
+                  "icon": "lucide-file-text",
+                  "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Pdfs/978-3-031-95973-8.pdf\",\"page\":10,\"left\":-17,\"top\":11,\"zoom\":0.8722716616974304},\"icon\":\"lucide-file-text\",\"title\":\"978-3-031-95973-8\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2026-01-06",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-06.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-06\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Pdfs/978-3-031-95973-8.pdf",
+                "page": 254,
+                "left": -24,
+                "top": 250,
+                "zoom": 0.6162232287138404
+              },
+              "icon": "lucide-file-text",
+              "title": "978-3-031-95973-8"
+            }
+          }
+        ]
+      },
+      {
         "id": "8372c39b5ce51ea8",
         "type": "tabs",
         "children": [
@@ -29,32 +72,8 @@
               "icon": "lucide-file",
               "title": "2026-01-04"
             }
-          },
-          {
-            "id": "92b87182b0613700",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-01-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-06"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,15 +354,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "92b87182b0613700",
   "lastOpenFiles": [
+    "2026-01-06.md",
     "Pdfs/978-3-031-95976-9.pdf",
     "Pdfs/978-3-031-95973-8.pdf",
     "Pdfs",
     "New folder",
     "New Text Document.txt",
     "2026-01-04.md",
-    "2026-01-06.md",
     "Drafts/To Learn/Bezout's Identity.md",
     "2026-01-01.md",
     "Base.base",
@@ -357,7 +376,6 @@
     "Drafts",
     "Language/Hebrew/Journal/2025-12-30.md",
     "Blog/Projects/N8N",
-    "Language/Hebrew/Journal/Corrected",
     "TODO.md",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
