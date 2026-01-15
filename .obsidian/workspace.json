@@ -26,10 +26,14 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-16.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-01-16"
             }
           }
         ]
@@ -313,10 +317,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
-    "2026-01-04.md",
+    "2026-01-16.md",
     "2026-01-07.md",
+    "2026-01-04.md",
     "2026-01-06.md",
     "Research/WeeklyPaper/Gimelfarb, M., Taitler, A., Sanner, S. (2025). Bounded-Error Policy Optimization for Mixed Discrete-Continuous MDPs via Constraint Generation in Nonlinear Programming..md",
     "Pdfs/978-3-031-95973-8.pdf",
@@ -352,7 +357,6 @@
     "Econometrics/ETC3400/Assignment 2.md",
     "Data Science/FIT3154/Assignment 1.md",
     "Politics/Fbi.md",
-    "Data Science/FIT3154/Index.md",
-    "Research/Potential Projects.md"
+    "Data Science/FIT3154/Index.md"
   ]
 }
