@@ -15,5 +15,6 @@
   "homepage",
   "omnisearch",
   "obsidian-linter",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-livesync"
 ]
