@@ -7,19 +7,24 @@ img: Blog/Projects/Packware/attachments/Shipping.png
 desc: This is where I document my progress on my work for finding the best shipping prices for Packware
 title: Shipping
 dateCreated: 28-12-2025
-lastModified: 28-12-2025
+lastModified: 18-01-2026
 ---
 
 # Shipping
 
-
 Question 1
 First to describe the following graphs, in the bipartite graphs, the red edges indicate an edge which is part of the matching whereas the black edges are dotted out. Furthermore, in the flow networks, the red arcs are the saturated arcs, whereas black arcs are unsaturated. Furthermore, above each vertex, there is a list starting with some value (Inf, None, 0 or 1) this indicates the label of the vertex. Additionally, the remaining values in the list are the flow and capacity of the arc and the order is from top to bottom visually. As in for example [0/1, 1/1, 0/1, 0/1] indicates that the top, 3rd and bottom arcs have 0 flow and capacity of 1 whereas the arc underneath the top and above the 3rd has flow 1.
-### a)
+
+## a)
+
 ![[MatchingPa.svg]]
-### b)
+
+## b)
+
 ![[Flow1b.svg]]
-### c) 
+
+## c) 
+
 Step 1:
 ![[FlowCiA.svg]]
 ![[FlowCiB.svg]]
@@ -33,16 +38,23 @@ ii)
 The same order applies to this second iteration.
 
 Now the last iteration would just label vertex $x$ and terminate, thus we would find that if $S=\left\{ x \right\}$, then the minimum cut $(S,V-S) = \left\{ x 1111, x 1100, x 1010, x 1001, x 0110, x 0101, x 0011, x 0000 \right\}$ and maximum flow of 8.
-### d)
+
+## d)
+
 ![[MatchingPd.svg]]
 <div style="page-break-after: always;"></div>
 
 ---
-## Question 2
-### a)
+
+# Question 2
+
+## a)
+
 The following graph displays the graph of $G(T,2)$ where $T$ is the graph drawn in blue and the edges added are drawn in red. Note how this graph is $K_{4}$ thus it is not 3 colourable.
 ![[Pasted image 20241013232559.png]]
-### b)
+
+## b)
+
 We will prove that for every tree $T$ with maximum degree 3, that $G(T,2)$ is 4-colourable by induction on $|V(T)|$.
 First, we know that $|V(T)|=|V(G(T,2))|$ by the definition of $G$.
 Now let $P(n)$ be the statement "For any tree $T$ of $n$ vertices with maximum degree 3, $G(T,2)$ is 4-colourable".
@@ -55,10 +67,14 @@ Now consider $T-\ell$, by our inductive hypothesis, we know that $G(T-\ell,2)$ i
 Furthermore, we also know that $\text{deg}_{G(T,2)}(\ell) = |\left\{ x \right\}\cup (N_{T}(x)\backslash \left\{ \ell \right\})|\leq 3$. Therefore, there are at most 3 colours assigned to the neighbours of $\ell$. So we can assign an unused colour to $\ell$. Therefore, since $G(T-\ell,2)$ is 4-colourable and we can assign $\ell$ a colour without needing a 5th colour. Then $G(T,2)$ is 4-colourable.
 
 Thus, by the Principle of Mathematical Induction $P(n)$ is true $\forall n\geq 1$. $\square$ 
-### c)
+
+## c)
+
 Below is a graph of $G(T,3)$ where $T$ is drawn in blue and and the edges added to create $G(T,3)$ are drawn in red. Note how this graph is $K_{6}$ thus it is not 5-colourable.
 ![[Pasted image 20241013232737.png]]
-### d)
+
+## d)
+
 Proof: Every tree $T$ with maximum degree 3, $G(T,3)$ is 6-colourable.
 
 We will begin by showing that for any rooted tree $T$ with maximum degree 3, root $r$ and $|V(T)|\geq 5$, there exists 2 distinct leaves, $\ell_{1}$ and $\ell_{2}$ such that $N_{T}(\ell_{1}) = N_{T}(\ell_{2}) = \left\{ x \right\}$ where $x$ is the parent of $\ell_{1}$ and $\ell_{2}$.   
@@ -95,20 +111,28 @@ Thus, since $G(T,3)$ is 5-degenerate, it is 6-colourable. $\square$
 <div style="page-break-after: always;"></div>
 
 ---
-## Question 3
-### a) 
+
+# Question 3
+
+## a) 
+
 Bellow is a drawing of the graph in (a) with the blue edges used to indicate which edges and vertices are used to find a subdivision of the graph which is also a subdivision of $K_{3,3}$
 ![[Pasted image 20241013233237.png]]
 Looking at both graphs it is easy to see that the second graph is a subdivision of the first graph. Furthermore, it is also easy to notice that the second graph is a subdivision of $K_{3,3}$. Thus by Kuratowski's theorem, we know that the graph in (a) is non planar
 ![[Pasted image 20241013233231.png]]
-### b)
+
+## b)
+
 Below is a drawing of the graph in (b) with no edge crossings. Since such a drawing exists, thus the graph in (b) is planar.
 ![[Pasted image 20241013233122.png]]
 <div style="page-break-after: always;"></div>
 
 ---
-## Question 5
-### (a)
+
+# Question 5
+
+## (a)
+
 A graph $G$ has no $\Theta$ subgraph if and only if every block of $G$ is either an isolated vertex, a bridge or a cycle.
 
 proof:
@@ -123,7 +147,9 @@ We will now prove the contrapositive, such that if a graph $G$ has a $\Theta$ su
 We can note that a $\Theta$ graph consists of at least 4 vertices since there must exist a vertex $v$ with $\text{deg}(v)\geq 3$ in order to have 3 internally disjoint paths. Furthermore, we can also note that a $\Theta$ graph has no cut vertex and that it is connected. Therefore, a $\Theta$ graph is a biconnected graph. Additionally, the blocks of $G$ consist of isolated vertices, bridges and maximal biconnected graphs. Since a $\Theta$ graph has more than 4 vertices, it can't be a subgraph of an isolated vertex or a bridge, therefore, it is a subgraph of some maximal biconnected block $B$. However, we can easily note that $B$ is not a cycle (since the $\Theta$ subgraph is not a cycle).
 Thus, we have shown that if a graph $G$ has a $\Theta$ subgraph, then there exists a block $B$ of $G$ which is not an isolated vertex, bridge or a cycle
 $\square$
-### (b) 
+
+## (b) 
+
 We can find that the maximum number of edges occurs when every block is a triangle, this yields the following equations.
 
 If $b$ is the number of blocks in $G$ then the number of edges is $e = n + (b-1)$.
@@ -148,8 +174,8 @@ If we were to delete vertex $v$ we would get a graph $G-v$ which would also not 
 Case 2: There exists a vertex $v$ with $\text{deg}(v)=1$.
 If a vertex has degree of 1, 
 
+## (c)
 
-### (c)
 A graph $G$ with no $\Theta$ subgraphs and with odd $n$ vertices has $|E(G)|=\frac{3(n-1)}{2}$ if and only if every block is a triangle and $G$ is connected.
 
 Alternatively, for a graph $G$ with no $\Theta$ subgraphs and with odd $n$ vertices has $|E(G)| = \left\lfloor  \frac{3(n-1)}{2}  \right\rfloor$ if and only if $G$ is connected, 1 block is a bridge or a 4-cycle and the remaining blocks are triangles.

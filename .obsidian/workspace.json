@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Shipping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Packware/Shipping.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shipping\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":154,\"ch\":250},\"to\":{\"line\":154,\"ch\":250}},\"scroll\":0}"
+                },
+                {
                   "title": "Week 1",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research/WeeklyPaper/Week 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Week 1\"}",
@@ -88,12 +94,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Projects/Packware/Shipping.md",
+                "file": "Scrap Paper.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shipping"
+              "title": "Scrap Paper"
             }
           }
         ]
@@ -356,7 +362,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,6 +389,7 @@
   },
   "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
+    "Blog/Projects/Packware/Shipping.md",
     "Research/WeeklyPaper/Week 1.md",
     "Scrap Paper.md",
     "flag_fetch.md",
@@ -412,7 +420,6 @@
     "Blog/Projects/N8N",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
-    "Blog/Projects/Packware/Shipping.md",
     "Blog/Projects/Packware/attachments/Shipping.png",
     "attachments/Welcome.png",
     "Test.md",
