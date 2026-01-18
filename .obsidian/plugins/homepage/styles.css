@@ -1,3 +1,15 @@
+.nv-homepage-interstitial {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100vw;
+	height: 100vh;
+	background: var(--background-primary);
+	z-index: 9999;
+	animation: 0.02s ease-in 0.5s forwards nv-interstitial-destroy;
+	pointer-events: none;
+}
+
 @keyframes nv-interstitial-destroy {
   from { opacity: 1; }
   to { opacity: 0; }
@@ -10,10 +22,11 @@
 
 #nv-main-setting {
 	flex-wrap: wrap;
+	margin-bottom: 30px;
 }
 
 #nv-main-setting .setting-item-control {
-	padding-top: var(--size-4-1);
+	padding-top: var(--size-4-2);
 	flex-basis: 100%;
 	align-items: stretch;
 }
@@ -73,7 +86,7 @@
 	margin-left: var(--size-2-2);
 }
 
-.nv-mobile-setting, .nv-command-setting {
+.nv-mobile-setting {
 	flex-wrap: wrap;
 	row-gap: var(--size-2-2);
 }
@@ -85,20 +98,21 @@
 }
 
 .nv-command-desc {
-	padding: 0;
+	padding: 1.2em 0 0;
+	border-top: 1px solid var(--background-modifier-border);
 }
 
 .nv-command-box {
-	margin: 1em 0 0;
+	margin: 1em 0 1.75em;
 	display: flex;
 	flex-wrap: wrap;
 	gap: 12px;
 	align-items: center;
-	width: 100%;
 }
 
 .nv-command-pill {
-	background-color: var(--background-modifier-hover);
+	background-color: var(--background-secondary);
+	border: 1px solid var(--background-modifier-border-hover);
 	border-radius: var(--radius-s);
 	font-size: var(--font-ui-small);
 	padding: var(--size-2-1) var(--size-2-2) var(--size-2-1) var(--size-2-3) ;
@@ -136,7 +150,6 @@
 .nv-command-pill > .svg-icon, .nv-command-pill button .svg-icon {
 	height: 1em;
 	width: 1em;
-	opacity: 1;
 }
 
 .nv-command-pill > .svg-icon {

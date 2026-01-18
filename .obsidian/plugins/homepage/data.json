@@ -3,7 +3,7 @@
   "homepages": {
     "Main Homepage": {
       "value": "TODO",
-      "kind": "Nothing",
+      "kind": "Daily Note",
       "openOnStartup": true,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
@@ -19,5 +19,5 @@
       "hideReleaseNotes": false
     }
   },
-  "separateMobile": true
+  "separateMobile": false
 }
