@@ -100,9 +100,32 @@
               "icon": "lucide-file",
               "title": "2026-01-16"
             }
+          },
+          {
+            "id": "b850787636038450",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-18"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -387,11 +410,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "fc531cc577f286dc",
+  "active": "b850787636038450",
   "lastOpenFiles": [
+    "2026-01-16.md",
+    "2026-01-18.md",
     "TODO.md",
     "flag_rebuild.md",
-    "2026-01-16.md",
     "Scrap Paper.md",
     "2026-01-07.md",
     "2026-01-04.md",
@@ -426,7 +450,6 @@
     "Data Science/FIT3179/Assignment 2/Assignment 2.md",
     "Econometrics/ETC3400/Assignment 1.md",
     "Econometrics/ETC3400/Assignment 2.md",
-    "Data Science/FIT3154/Assignment 1.md",
-    "Politics/Fbi.md"
+    "Data Science/FIT3154/Assignment 1.md"
   ]
 }
