@@ -172,6 +172,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Scrap Paper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scrap Paper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scrap Paper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":20.555883806301257}"
+                },
+                {
                   "title": "2026-01-18",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-18.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-18\"}",
@@ -182,12 +188,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scrap Paper.md",
+                "file": "Blog/Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scrap Paper"
+              "title": "Welcome"
             }
           },
           {
@@ -501,8 +507,8 @@
   },
   "active": "0f56dceb29ca2ac9",
   "lastOpenFiles": [
-    "2026-01-18.md",
     "Scrap Paper.md",
+    "2026-01-18.md",
     "TODO.md",
     "2026-01-16.md",
     "flag_rebuild.md",
