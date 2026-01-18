@@ -23,5 +23,5 @@ In the website data we can see the cost of shipping to Melbourne for products ov
 Thus we will add a column calculating the shipping percentage is of  the base cost, then use that to find an ideal price to set to provide free shipping.  
 
 Overall, we can see that there are a variety of shipping percentages charged, specifically ranging between $16\%-25\%$, including $(0.250 0.242 0.230 0.225 0.224 0.215 0.212 0.170 0.169 0.168 0.162 0.161 0.160)$.
-Testing
-Test this is really working?
+
+Now will this commit to github
