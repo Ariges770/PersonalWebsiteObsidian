@@ -141,6 +141,25 @@
               "icon": "lucide-file",
               "title": "Scrap Paper"
             }
+          },
+          {
+            "id": "eb79b34948395602",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "p2p-replicator",
+              "state": {},
+              "icon": "waypoints",
+              "title": "Peer-to-Peer Replicator"
+            }
           }
         ],
         "currentTab": 2
