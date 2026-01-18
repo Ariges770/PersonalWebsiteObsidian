@@ -77,6 +77,44 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "9fc2b7c8106954f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "global-history",
+              "state": {},
+              "icon": "clock",
+              "title": "Vault history"
+            }
+          },
+          {
+            "id": "1eccce4008b0f159",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
           }
         ]
       }
@@ -359,11 +397,10 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-livesync:Show Customization sync": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
     "TODO.md",
     "2026-01-16.md",
