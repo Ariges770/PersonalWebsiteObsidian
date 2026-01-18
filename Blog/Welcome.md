@@ -7,7 +7,7 @@ aliases:
 tags:
 title: Welcome to my website
 dateCreated: 28-12-2025
-lastModified: 28-12-2025
+lastModified: 18-01-2026
 ---
 
 # Welcome to my website
