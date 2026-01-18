@@ -2,7 +2,7 @@
 author: Ari Gestetner
 aliases:
 tags:
-draft: true
+draft: false
 img: attachments/TODO.png
 desc: My todo list
 title: Things TODO
