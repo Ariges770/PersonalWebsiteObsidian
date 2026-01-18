@@ -407,16 +407,15 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-livesync:Show Customization sync": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
+    "flag_fetch.md",
+    "Blog/Projects/Packware/Shipping.md",
     "Scrap Paper.md",
     "Research/WeeklyPaper/Week 1.md",
-    "Blog/Projects/Packware/Shipping.md",
-    "flag_fetch.md",
     "TODO.md",
     "2026-01-16.md",
     "2026-01-18.md",
