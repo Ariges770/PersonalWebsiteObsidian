@@ -11,8 +11,14 @@
             "id": "fc00689958cfe3bd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "2026-01-18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-18.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-18\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -407,18 +413,19 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
-    "flag_fetch.md",
+    "2026-01-18.md",
     "Blog/Projects/Packware/Shipping.md",
+    "2026-01-16.md",
+    "flag_fetch.md",
     "Scrap Paper.md",
     "Research/WeeklyPaper/Week 1.md",
     "TODO.md",
-    "2026-01-16.md",
-    "2026-01-18.md",
     "Blog/Welcome.md",
     "flag_rebuild.md",
     "2026-01-07.md",

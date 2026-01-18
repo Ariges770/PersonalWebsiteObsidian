@@ -7,14 +7,14 @@ img: Blog/Projects/Packware/attachments/Shipping.png
 desc: This is where I document my progress on my work for finding the best shipping prices for Packware
 title: Shipping
 dateCreated: 28-12-2025
-lastModified: 18-01-2026
+lastModified: 19-01-2026
 ---
 
 # Shipping
 
 ## Q1
 
-If we consider the amount of water added to the larger bucket $v$ as time in an arrival process then all we need to do is substitute $v=t$. Thus the interarrival times is the amount of water added on each draw and the process is counting how many times we add water to the larger bucket.
+If we consider the amount of water added to the larger bucket $v$ as time in an arrival process then all we need to do is substitute $v=t$. Thus the interarrival times is the amount of water added on each draw and the process is counting how many times we add water to the larger bucket. 
 
 ### (a)
 
