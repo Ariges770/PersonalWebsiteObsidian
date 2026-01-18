@@ -93,4 +93,4 @@ lastModified: 18-01-2026
 
 ### 3179 A2
 
-- [ ] Add new header template to allow for full page display for this project as well as potential others
+- [x] Add new header template to allow for full page display for this project as well as potential others
