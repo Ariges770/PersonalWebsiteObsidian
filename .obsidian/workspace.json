@@ -160,9 +160,61 @@
               "icon": "waypoints",
               "title": "Peer-to-Peer Replicator"
             }
+          },
+          {
+            "id": "0f56dceb29ca2ac9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "2026-01-18",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2026-01-18.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2026-01-18\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":8.097402241415606}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scrap Paper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrap Paper"
+            }
+          },
+          {
+            "id": "7b5e05f97864dee8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-01-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-18"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -447,11 +499,11 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "eb79b34948395602",
+  "active": "0f56dceb29ca2ac9",
   "lastOpenFiles": [
-    "TODO.md",
-    "Scrap Paper.md",
     "2026-01-18.md",
+    "Scrap Paper.md",
+    "TODO.md",
     "2026-01-16.md",
     "flag_rebuild.md",
     "2026-01-07.md",
