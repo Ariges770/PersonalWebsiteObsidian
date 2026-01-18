@@ -413,11 +413,15 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
+    "Pdfs/978-3-031-95976-9.pdf",
+    "Pdfs/978-3-031-95973-8.pdf",
+    "Pdfs",
     "2026-01-18.md",
     "Blog/Projects/Packware/Shipping.md",
     "2026-01-16.md",
@@ -444,9 +448,7 @@
     "Research/WeeklyPaper",
     "2025-12-31.md",
     "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
-    "Drafts",
     "Language/Hebrew/Journal/2025-12-30.md",
-    "Blog/Projects/N8N",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
     "Blog/Projects/Packware/attachments/Shipping.png",
@@ -455,7 +457,6 @@
     "Econometrics/ETC3400/Week 12.md",
     "Data Science/FIT3154/Assignment 2.md",
     "Econometrics/ETC3400/Assignment 3.md",
-    "Data Science/FIT3179/Assignment 2/Assignment 2.md",
-    "Econometrics/ETC3400/Assignment 1.md"
+    "Data Science/FIT3179/Assignment 2/Assignment 2.md"
   ]
 }
