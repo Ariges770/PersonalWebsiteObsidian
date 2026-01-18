@@ -413,8 +413,7 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-livesync:Show Customization sync": false
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "fc00689958cfe3bd",
