@@ -21,6 +21,24 @@
                   "title": "Scrap Paper",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scrap Paper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scrap Paper\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "Week 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research/WeeklyPaper/Week 1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Week 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Shipping",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Blog/Projects/Packware/Shipping.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Shipping\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":161},\"to\":{\"line\":14,\"ch\":161}},\"scroll\":144.59388873633065}"
+                },
+                {
+                  "title": "Scrap Paper",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Scrap Paper.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Scrap Paper\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":23.968081253575892}"
                 },
                 {
@@ -368,7 +386,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,8 +414,8 @@
   "active": "fc00689958cfe3bd",
   "lastOpenFiles": [
     "Scrap Paper.md",
-    "Blog/Projects/Packware/Shipping.md",
     "Research/WeeklyPaper/Week 1.md",
+    "Blog/Projects/Packware/Shipping.md",
     "flag_fetch.md",
     "TODO.md",
     "2026-01-16.md",
