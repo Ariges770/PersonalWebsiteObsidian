@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -447,7 +447,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "b850787636038450",
+  "active": "eb79b34948395602",
   "lastOpenFiles": [
     "TODO.md",
     "Scrap Paper.md",
