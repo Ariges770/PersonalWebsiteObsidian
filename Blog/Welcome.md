@@ -20,4 +20,4 @@ On this site, you'll find a collection of my notes, projects, and blog posts whe
 
 I am still in the process of building and expanding this site, so apologies for any incomplete sections you may encounter.
 
-Feel free to explore the different sections, leave comments, and reach out if you'd like to connect. I'm excited to share my work with you!
+Feel free to explore the different sections, leave comments, and reach out if you'd like to connect. I'm excited to share my work with you and thank you for visiting!
