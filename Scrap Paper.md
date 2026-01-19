@@ -30,4 +30,4 @@ So far it doesn't seem to be working.
 
 Alright it seems like it is working again. 
 
-And this will test the other 
+And this will test the other commit.  
