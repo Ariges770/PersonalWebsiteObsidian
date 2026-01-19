@@ -26,4 +26,8 @@ Overall, we can see that there are a variety of shipping percentages charged, sp
 
 This is to test the commits. 
 
-So far it doesn't seem to be working. 
+So far it doesn't seem to be working.
+
+Alright it seems like it is working again. 
+
+And this will test the other 
