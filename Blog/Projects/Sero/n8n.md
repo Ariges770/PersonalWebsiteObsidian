@@ -1,7 +1,7 @@
 ---
 author: Ari Gestetner
-aliases: 
-tags: 
+aliases:
+tags:
 draft: true
 img:
 desc:
