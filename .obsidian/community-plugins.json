@@ -3,7 +3,6 @@
   "obsidian-enhancing-export",
   "obsidian-file-color",
   "file-explorer-note-count",
-  "obsidian-git",
   "highlightr-plugin",
   "obsidian-icon-folder",
   "obsidian-latex-suite",
@@ -15,5 +14,6 @@
   "homepage",
   "omnisearch",
   "obsidian-linter",
-  "obsidian-zotero-desktop-connector"
+  "obsidian-zotero-desktop-connector",
+  "obsidian-livesync"
 ]

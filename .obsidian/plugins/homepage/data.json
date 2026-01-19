@@ -3,19 +3,19 @@
   "homepages": {
     "Main Homepage": {
       "value": "TODO",
-      "kind": "Daily Note",
-      "openOnStartup": true,
+      "kind": "File",
+      "openOnStartup": false,
       "openMode": "Keep open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
       "revertView": true,
-      "openWhenEmpty": true,
+      "openWhenEmpty": false,
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
       "pin": false,
       "commands": [],
-      "alwaysApply": true,
+      "alwaysApply": false,
       "hideReleaseNotes": false
     }
   },
