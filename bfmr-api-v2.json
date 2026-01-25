@@ -1,0 +1,1031 @@
+{
+	"message": "Deals list.",
+	"deals": [
+		{
+			"items": [
+				{
+					"id": "SR0h8rIiYpfAOELuzVj1FA==",
+					"name": "Apple Magic Keyboard - 13'' iPad Pro - Black - ‎MWR53LL\/A",
+					"color": "Black",
+					"model": "‎MWR53LL\/A",
+					"upc": [
+						"195949484407"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0D3J63BWD",
+							"url": "https:\/\/ftc.cash\/TuQ6t",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6340357",
+							"url": "https:\/\/ftc.cash\/xtCHL",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "qrlHc8PNTWRDhPaEd3SZoQ==",
+			"deal_code": "D-ROTIO",
+			"retail_price": 335.45,
+			"title": "Apple Magic Keyboard - 13'' iPad Pro - Black",
+			"slug": "apple-magic-keyboard-13-ipad-pro-black",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy",
+			"retail_type": "Below Retail",
+			"payout_price": 322,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "z0BCg8Mfcz8E9PNLQPFpNQ==",
+					"name": "Apple AirPods 4 - USB-C Charging Case - ‎MXP63LL\/A",
+					"color": "White",
+					"model": "‎MXP63LL\/A",
+					"upc": [
+						"195949688522"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "3000000000005318755",
+							"url": "https:\/\/ftc.cash\/MLcpq",
+							"retailer": "BJ's"
+						},
+						{
+							"identifier_id": "B0DGHMNQ5Z",
+							"url": "https:\/\/ftc.cash\/gHQjq",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11381374703",
+							"url": "https:\/\/ftc.cash\/hUWRA",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6447384",
+							"url": "https:\/\/ftc.cash\/t9h21",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "266855",
+							"url": "https:\/\/ftc.cash\/oOIeE",
+							"retailer": "BrandSmartUS"
+						},
+						{
+							"identifier_id": "93606140",
+							"url": "https:\/\/ftc.cash\/ZWoGZ",
+							"retailer": "Target"
+						}
+					]
+				}
+			],
+			"deal_id": "NSW2oWOBDl99kZqF_ui4lA==",
+			"deal_code": "D-AMNHZ",
+			"retail_price": 79.99,
+			"title": "Apple AirPods 4 - USB-C Charging Case",
+			"slug": "apple-airpods-4-usb-c-charging-case-34",
+			"closing_at": null,
+			"retailers": "BJ's, Amazon, Walmart, Best Buy, BrandSmartUS, Target",
+			"retail_type": "Full Retail",
+			"payout_price": 79.99,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": false
+		},
+		{
+			"items": [
+				{
+					"id": "vZwqVEtsO3dFL36qb9nm8g==",
+					"name": "Starlink - Mini Kit AC Dual Band Wi-Fi System - White",
+					"color": "White",
+					"model": null,
+					"upc": [
+						"850049670302"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "6589861",
+							"url": "https:\/\/ftc.cash\/xvzFO",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "13168716173",
+							"url": "https:\/\/ftc.cash\/TwN4w",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "331732584",
+							"url": "https:\/\/ftc.cash\/fx1ud",
+							"retailer": "Home Depot"
+						},
+						{
+							"identifier_id": "B0DH3PLZ6N",
+							"url": "https:\/\/ftc.cash\/AyfTU",
+							"retailer": "Amazon"
+						}
+					]
+				}
+			],
+			"deal_id": "chrQg2ZKX8+0Ix53yL7N4A==",
+			"deal_code": "D-GY4IN",
+			"retail_price": 199,
+			"title": "Starlink - Mini Kit AC Dual Band Wi-Fi System",
+			"slug": "starlink-mini-kit-ac-dual-band-wi-fi-system",
+			"closing_at": null,
+			"retailers": "Best Buy, Walmart, Home Depot, Amazon",
+			"retail_type": "Above Retail",
+			"payout_price": 199.99,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": false
+		},
+		{
+			"items": [
+				{
+					"id": "fB2cRYGjxfvwViKf4N34SA==",
+					"name": "Apple Pencil Pro - MX2D3AM\/A",
+					"color": "White",
+					"model": "MX2D3AM\/A",
+					"upc": [
+						"195949573040"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0D3J71RM7",
+							"url": "https:\/\/ftc.cash\/AwiVR",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "APMX2D3AMA",
+							"url": "https:\/\/ftc.cash\/xZUD1",
+							"retailer": "B&H"
+						},
+						{
+							"identifier_id": "6535042",
+							"url": "https:\/\/ftc.cash\/Wxwkz",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "qJZo9_8NMbDvlea3ZLCxFw==",
+			"deal_code": "D-SXLHB",
+			"retail_price": 94.99,
+			"title": "Apple Pencil Pro",
+			"slug": "apple-pencil-pro-32",
+			"closing_at": null,
+			"retailers": "Amazon, B&H, Best Buy",
+			"retail_type": "Below Retail",
+			"payout_price": 94,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "fA41BGRGxjyv8yTlouRlCg==",
+					"name": "Apple Mac Mini Desktop - 2024 M4 Chip - 256gb\/16gb - MU9D3LL\/A",
+					"color": "Silver",
+					"model": "MU9D3LL\/A",
+					"upc": [
+						"195949080296"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DLBTPDCS",
+							"url": "https:\/\/ftc.cash\/AXMkx",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6566918",
+							"url": "https:\/\/ftc.cash\/AAWV9",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "1780771",
+							"url": "https:\/\/ftc.cash\/DCH2i",
+							"retailer": "Costco"
+						}
+					]
+				}
+			],
+			"deal_id": "zuF46k8kwRdJm3iuiqQBPA==",
+			"deal_code": "D-DSUAP",
+			"retail_price": 499,
+			"title": "Apple Mac Mini Desktop - 2024 M4 Chip - 256gb\/16gb",
+			"slug": "apple-mac-mini-desktop-2024-m4-chip-256gb-16gb-16",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy, Costco",
+			"retail_type": "Below Retail",
+			"payout_price": 480,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "HJYSC8_NrJVza5LV3VSBZA==",
+					"name": "Apple MacBook Pro - 14\" 2024 M4 Pro Chip - 512gb\/24gb - Silver - ‎MX2E3LL\/A",
+					"color": "Silver",
+					"model": "‎MX2E3LL\/A",
+					"upc": [
+						"195949873485"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DLHDJH98",
+							"url": "https:\/\/ftc.cash\/TVkw8",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6602745",
+							"url": "https:\/\/ftc.cash\/rMF2Y",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "YJZZOD_Odo3YeiBj9VdsTg==",
+					"name": "Apple MacBook Pro - 14\" 2024 M4 Pro Chip - 512gb\/24gb - Space Black - MX2H3LL\/A",
+					"color": "Space Black",
+					"model": "MX2H3LL\/A",
+					"upc": [
+						"195949874833"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DLHY2BJ6",
+							"url": "https:\/\/ftc.cash\/tuexe",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6602748",
+							"url": "https:\/\/ftc.cash\/5LrDg",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "PDdsCtEHg6yqpnhchU8qyQ==",
+			"deal_code": "D-NUGOA",
+			"retail_price": 1749,
+			"title": "Apple MacBook Pro - 14\" 2024 M4 Pro Chip - 512gb\/24gb",
+			"slug": "apple-macbook-pro-14-2024-m4-pro-chip-512gb-24gb-17",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy",
+			"retail_type": "Below Retail",
+			"payout_price": 1680,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "EhPdOX+jzNLIQVaX1nrFNw==",
+					"name": "Apple Mac Mini Desktop - 2024 M4 Pro Chip - 512gb\/24gb - MCX44LL\/A",
+					"color": "Silver",
+					"model": "MCX44LL\/A",
+					"upc": [
+						"195949942556"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DLBVHSLD",
+							"url": "https:\/\/ftc.cash\/qYczH",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6566916",
+							"url": "https:\/\/ftc.cash\/EDC9g",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "1780774",
+							"url": "https:\/\/ftc.cash\/GFngo",
+							"retailer": "Costco"
+						}
+					]
+				}
+			],
+			"deal_id": "o+FgOQvjk9IthxYBUIM7ew==",
+			"deal_code": "D-QD962",
+			"retail_price": 1269,
+			"title": "Apple Mac Mini Desktop - 2024 M4 Pro Chip - 512gb\/24gb",
+			"slug": "apple-mac-mini-desktop-2024-m4-pro-chip-512gb-24gb-9",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy, Costco",
+			"retail_type": "Below Retail",
+			"payout_price": 1220,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "fA41BGRGxjyv8yTlouRlCg==",
+					"name": "Apple Mac Mini Desktop - 2024 M4 Chip - 256gb\/16gb - MU9D3LL\/A",
+					"color": "Silver",
+					"model": "MU9D3LL\/A",
+					"upc": [
+						"195949080296"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DLBTPDCS",
+							"url": "https:\/\/ftc.cash\/AXMkx",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6566918",
+							"url": "https:\/\/ftc.cash\/AAWV9",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "1780771",
+							"url": "https:\/\/ftc.cash\/DCH2i",
+							"retailer": "Costco"
+						}
+					]
+				}
+			],
+			"deal_id": "4BIGd+bN+8TK5Vn9g7+YCw==",
+			"deal_code": "D-6FMBR",
+			"retail_price": 499,
+			"title": "Apple Mac Mini Desktop - 2024 M4 Chip - 256gb\/16gb",
+			"slug": "apple-mac-mini-desktop-2024-m4-chip-256gb-16gb-15",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy, Costco",
+			"retail_type": "Below Retail",
+			"payout_price": 482,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "cJLw7PV7f9yO3+ttIN0SVw==",
+					"name": "Apple iPad Air 7 - 11'' 2025 M3 - 256gb - Cellular - Space Gray - MCG04LL\/A",
+					"color": "Space Gray",
+					"model": "MCG04LL\/A",
+					"upc": [
+						"195949987090"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZ743XN6",
+							"url": "https:\/\/ftc.cash\/Plh1c",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6457155",
+							"url": "https:\/\/ftc.cash\/amvqT",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "T0BJFKoe04X3Eo7YweRR6Q==",
+					"name": "Apple iPad Air 7 - 11'' 2025 M3 - 256gb - Cellular - Blue - MCG14LL\/A",
+					"color": "Blue",
+					"model": "MCG14LL\/A",
+					"upc": [
+						"195949987311"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZ75N9KQ",
+							"url": "https:\/\/ftc.cash\/dpbEZ",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6457156",
+							"url": "https:\/\/ftc.cash\/zqp3H",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "3LESqd8U889kZ+36pt72HA==",
+					"name": "Apple iPad Air 7 - 11'' 2025 M3 - 256gb - Cellular - Starlight - MCG24LL\/A",
+					"color": "Starlight",
+					"model": "MCG24LL\/A",
+					"upc": [
+						"195949987533"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZ73DFNS",
+							"url": "https:\/\/ftc.cash\/Eqy6A",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6457157",
+							"url": "https:\/\/ftc.cash\/fsRR5",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "aOJkKQOWqkhBB_XAer12UQ==",
+			"deal_code": "D-FVDXZ",
+			"retail_price": 779.73,
+			"title": "Apple iPad Air 7 - 11'' 2025 M3 - 256gb - Cellular",
+			"slug": "apple-ipad-air-7-11-2025-m3-256gb-cellular-7",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy",
+			"retail_type": "Below Retail",
+			"payout_price": 750,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "HGuwj+2fw0sZnn+tq3yULQ==",
+					"name": "Apple AirPods Max USB-C - Midnight - MWW43AM\/A",
+					"color": "Midnight",
+					"model": "MWW43AM\/A",
+					"upc": [
+						"195949543890"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJC52FP",
+							"url": "https:\/\/ftc.cash\/NPY4W",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11347872631",
+							"url": "https:\/\/ftc.cash\/NLLc5",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6550076",
+							"url": "https:\/\/ftc.cash\/8MZBM",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "266840",
+							"url": "https:\/\/ftc.cash\/BohKc",
+							"retailer": "BrandSmartUS"
+						},
+						{
+							"identifier_id": "1611948",
+							"url": "https:\/\/ftc.cash\/SbEMh",
+							"retailer": "Costco"
+						},
+						{
+							"identifier_id": "85978621",
+							"url": "https:\/\/ftc.cash\/xaqnA",
+							"retailer": "Target"
+						}
+					]
+				},
+				{
+					"id": "1VrMHbTrMQtWKOD_5U64JQ==",
+					"name": "Apple AirPods Max USB-C - Blue - MWW63AM\/A",
+					"color": "Blue",
+					"model": "MWW63AM\/A",
+					"upc": [
+						"195949544170"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJJDFPR",
+							"url": "https:\/\/ftc.cash\/QSEi2",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11396065834",
+							"url": "https:\/\/ftc.cash\/QOrqb",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6550078",
+							"url": "https:\/\/ftc.cash\/bPFPS",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "266849",
+							"url": "https:\/\/ftc.cash\/1sbn01",
+							"retailer": "BrandSmartUS"
+						},
+						{
+							"identifier_id": "82065675",
+							"url": "https:\/\/ftc.cash\/N5il5",
+							"retailer": "Target"
+						}
+					]
+				},
+				{
+					"id": "7cDpdkJlsOa3IRcMR9TFww==",
+					"name": "Apple AirPods Max USB-C - Starlight - MWW53AM\/A",
+					"color": "Starlight",
+					"model": "MWW53AM\/A",
+					"upc": [
+						"195949544033"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJKT2X9",
+							"url": "https:\/\/ftc.cash\/rOKFe",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11375169740",
+							"url": "https:\/\/ftc.cash\/ATzsG",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6550077",
+							"url": "https:\/\/ftc.cash\/VUNRn",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "266846",
+							"url": "https:\/\/ftc.cash\/Xpv9U",
+							"retailer": "BrandSmartUS"
+						},
+						{
+							"identifier_id": "1611950",
+							"url": "https:\/\/ftc.cash\/SbEMh",
+							"retailer": "Costco"
+						},
+						{
+							"identifier_id": "85978613",
+							"url": "https:\/\/ftc.cash\/ecSbZ",
+							"retailer": "Target"
+						}
+					]
+				},
+				{
+					"id": "u22ge2EQ61dAmlmxOIshnw==",
+					"name": "Apple AirPods Max USB-C - Purple - MWW83AM\/A",
+					"color": "Purple",
+					"model": "MWW83AM\/A",
+					"upc": [
+						"195949544453"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJBQSJY",
+							"url": "https:\/\/ftc.cash\/uRqTk",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11378018200",
+							"url": "https:\/\/ftc.cash\/KI5ZY",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6550080",
+							"url": "https:\/\/ftc.cash\/rKxNn",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "85978616",
+							"url": "https:\/\/ftc.cash\/u7K9u",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "266853",
+							"url": "https:\/\/ftc.cash\/DrXXi",
+							"retailer": "BrandSmartUS"
+						}
+					]
+				},
+				{
+					"id": "AO57JnF0SulLSvqLNtpbmw==",
+					"name": "Apple AirPods Max USB-C - Orange - MWW73AM\/A",
+					"color": "Orange",
+					"model": "MWW73AM\/A",
+					"upc": [
+						"195949544316"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGHYDZSD",
+							"url": "https:\/\/ftc.cash\/9QcuD",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "11365609755",
+							"url": "https:\/\/ftc.cash\/xQTeA",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "6550079",
+							"url": "https:\/\/ftc.cash\/TR7Eh",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "266851",
+							"url": "https:\/\/ftc.cash\/iqJyB",
+							"retailer": "BrandSmartUS"
+						},
+						{
+							"identifier_id": "85978610",
+							"url": "https:\/\/ftc.cash\/P8Yyb",
+							"retailer": "Target"
+						}
+					]
+				}
+			],
+			"deal_id": "3f5q+jweku6f2xoMzhCT2A==",
+			"deal_code": "D-L7DTA",
+			"retail_price": 449.99,
+			"title": "Apple AirPods Max USB-C",
+			"slug": "apple-airpods-max-usb-c-16",
+			"closing_at": null,
+			"retailers": "Walmart, Best Buy, BrandSmartUS, Costco, Target, Amazon",
+			"retail_type": "Below Retail",
+			"payout_price": 436,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": false
+		},
+		{
+			"items": [
+				{
+					"id": "2o_h6VTCOs0IMSjzdsgziQ==",
+					"name": "Apple MacBook Air - 15\" 2025 M4 - 512gb\/16gb - Sky Blue - MC7C4LL\/A",
+					"color": "Sky Blue",
+					"model": "MC7C4LL\/A",
+					"upc": [
+						"195949893636"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZDBS1YD",
+							"url": "https:\/\/ftc.cash\/bnK301",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6551405",
+							"url": "https:\/\/ftc.cash\/voYsH",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "sMD5lR6wQ75cd869KXwSiQ==",
+					"name": "Apple MacBook Air - 15\" 2025 M4 - 512gb\/16gb - Silver - MW1H3LL\/A",
+					"color": "Silver",
+					"model": "MW1H3LL\/A",
+					"upc": [
+						"195949840562"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZD8G1CN",
+							"url": "https:\/\/ftc.cash\/XvyjB",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6565865",
+							"url": "https:\/\/ftc.cash\/Gx0801",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "rx68jXxHW4wBdGEL7VnvXQ==",
+					"name": "Apple MacBook Air - 15\" 2025 M4 - 512gb\/16gb - Midnight - MW1M3LL\/A",
+					"color": "Midnight",
+					"model": "MW1M3LL\/A",
+					"upc": [
+						"195949842443"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DZD9VLQ4",
+							"url": "https:\/\/ftc.cash\/yrEGN",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6565870",
+							"url": "https:\/\/ftc.cash\/gt6vc",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "_O+Oss+MKF_GObduy7yJPw==",
+			"deal_code": "D-0HMQO",
+			"retail_price": 1199,
+			"title": "Apple MacBook Air - 15\" 2025 M4 - 512gb\/16gb",
+			"slug": "apple-macbook-air-15-2025-m4-512gb-16gb-20",
+			"closing_at": null,
+			"retailers": "Amazon, Best Buy",
+			"retail_type": "Below Retail",
+			"payout_price": 1150,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "FCGBMl5geizk1EOtlyFiOw==",
+					"name": "Nintendo Switch 2 Console - Black - 123669",
+					"color": "Black",
+					"model": "123669",
+					"upc": [
+						"045496885816"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0F3GWXLTS",
+							"url": "https:\/\/ftc.cash\/tfGdl",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "221273",
+							"url": "https:\/\/ftc.cash\/fnT6T",
+							"retailer": "ABT"
+						},
+						{
+							"identifier_id": "6614313",
+							"url": "https:\/\/ftc.cash\/viL4o",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "424543",
+							"url": "https:\/\/ftc.cash\/ylriu",
+							"retailer": "GameStop"
+						},
+						{
+							"identifier_id": "N82E16878966017",
+							"url": "https:\/\/ftc.cash\/TmFHb",
+							"retailer": "Newegg"
+						},
+						{
+							"identifier_id": "123669",
+							"url": "https:\/\/ftc.cash\/MAPoZ",
+							"retailer": "Nintendo"
+						},
+						{
+							"identifier_id": "94693225",
+							"url": "https:\/\/ftc.cash\/QjZt5",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "15949610846",
+							"url": "https:\/\/ftc.cash\/ckdTM",
+							"retailer": "Walmart"
+						}
+					]
+				}
+			],
+			"deal_id": "769H885ZogxxwzidWFRVxg==",
+			"deal_code": "D-6OPBA",
+			"retail_price": 449,
+			"title": "Nintendo Switch 2 Console",
+			"slug": "nintendo-switch-2-console-7",
+			"closing_at": null,
+			"retailers": "Amazon, ABT, Best Buy, GameStop, Newegg, Nintendo, Target, Walmart",
+			"retail_type": "Below Retail",
+			"payout_price": 431,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		},
+		{
+			"items": [
+				{
+					"id": "TwRiuIEGjbVAFUTpaBVjEA==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - M\/L - Silver - MXER3LL\/A",
+					"color": "Silver",
+					"model": "MXER3LL\/A",
+					"upc": [
+						"195949644993"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGHS7R27",
+							"url": "https:\/\/ftc.cash\/1eNvv",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6572669",
+							"url": "https:\/\/ftc.cash\/VnP9A",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "91122580",
+							"url": "https:\/\/ftc.cash\/zmBKS",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11453518171",
+							"url": "https:\/\/ftc.cash\/8kPqz",
+							"retailer": "Walmart"
+						}
+					]
+				},
+				{
+					"id": "ph83f9ExWC_M2eiIVUjkzw==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - M\/L - Starlight - MXEV3LL\/A",
+					"color": "Starlight",
+					"model": "MXEV3LL\/A",
+					"upc": [
+						"195949645808"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJCTFKX",
+							"url": "https:\/\/ftc.cash\/qHMoz",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "91122496",
+							"url": "https:\/\/ftc.cash\/YqvnG",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11479556172",
+							"url": "https:\/\/ftc.cash\/NjB1S",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "11926478",
+							"url": "https:\/\/ftc.cash\/CaLdu",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "kjjiDtOTrYNbZpi+HYih5Q==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - M\/L - Midnight - MXEK3LL\/A",
+					"color": "Midnight",
+					"model": "MXEK3LL\/A",
+					"upc": [
+						"195949644184"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJ2NM9S",
+							"url": "https:\/\/ftc.cash\/4GyZR",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "6572665",
+							"url": "https:\/\/ftc.cash\/biH75",
+							"retailer": "Best Buy"
+						},
+						{
+							"identifier_id": "91122543",
+							"url": "https:\/\/ftc.cash\/wjVwM",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11430516481",
+							"url": "https:\/\/ftc.cash\/QmhfY",
+							"retailer": "Walmart"
+						}
+					]
+				},
+				{
+					"id": "QofuaIs9UaBJGgZCzYRcxg==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - S\/M - Midnight - MXEJ3LL\/A",
+					"color": "Midnight",
+					"model": "MXEJ3LL\/A",
+					"upc": [
+						"195949643910"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "11450469465",
+							"url": "https:\/\/ftc.cash\/wpYGt",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "B0DGJ1W9MF",
+							"url": "https:\/\/ftc.cash\/MI0Og",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "91122570",
+							"url": "https:\/\/ftc.cash\/ugfjG",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11926474",
+							"url": "https:\/\/ftc.cash\/kcd2T",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "rG0+_VAYgNW3EBn1e+ECmQ==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - S\/M - Silver - MXEQ3LL\/A",
+					"color": "Silver",
+					"model": "MXEQ3LL\/A",
+					"upc": [
+						"195949644726"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "91122552",
+							"url": "https:\/\/ftc.cash\/Sk9Wt",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11447467442",
+							"url": "https:\/\/ftc.cash\/erqvS",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "B0DGHR7Z3M",
+							"url": "https:\/\/ftc.cash\/0eFQh",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "10206219",
+							"url": "https:\/\/ftc.cash\/FdrrA",
+							"retailer": "Best Buy"
+						}
+					]
+				},
+				{
+					"id": "LSVHV_Yi2UK3OLmr9t1LbQ==",
+					"name": "Apple Watch SE (2024) - 44mm - Sport Band - S\/M - Starlight - MXEU3LL\/A",
+					"color": "Starlight",
+					"model": "MXEU3LL\/A",
+					"upc": [
+						"195949645532"
+					],
+					"retailer_links": [
+						{
+							"identifier_id": "B0DGJ1F3W7",
+							"url": "https:\/\/ftc.cash\/8JedY",
+							"retailer": "Amazon"
+						},
+						{
+							"identifier_id": "91122571",
+							"url": "https:\/\/ftc.cash\/ho3zh",
+							"retailer": "Target"
+						},
+						{
+							"identifier_id": "11447517086",
+							"url": "https:\/\/ftc.cash\/Tqc6b",
+							"retailer": "Walmart"
+						},
+						{
+							"identifier_id": "10101322",
+							"url": "https:\/\/ftc.cash\/XbZCb",
+							"retailer": "Best Buy"
+						}
+					]
+				}
+			],
+			"deal_id": "YoRUTSCRBH8MIuHVADhouA==",
+			"deal_code": "D-VDT3E",
+			"retail_price": 159,
+			"title": "Apple Watch SE (2024) - 44mm",
+			"slug": "apple-watch-se-2024-44mm-4",
+			"closing_at": null,
+			"retailers": "Best Buy, Target, Walmart, Amazon",
+			"retail_type": "Above Retail",
+			"payout_price": 161,
+			"deal_information": null,
+			"is_bundle": false,
+			"is_exclusive_deal": false,
+			"is_reservation_closed": true
+		}
+	],
+	"paging": {
+		"current_page": 1,
+		"from": 1,
+		"last_page": 1,
+		"to": 13,
+		"total": 13,
+		"perPage": 50,
+		"pages": 1,
+		"first": 1,
+		"last": 1,
+		"prev": null,
+		"next": null
+	}
+}

@@ -1,0 +1,200 @@
+{
+	"success": true,
+	"status": 200,
+	"message": "Deals list.",
+	"data": {
+		"showPrivate": false,
+		"deal_list_view": "",
+		"deals": [
+			{
+				"id": 8009,
+				"title": "Apple MacBook Pro - 14\" 2024 M4 Pro Chip - 512gb\/24gb",
+				"slug": "apple-macbook-pro-14-2024-m4-pro-chip-512gb-24gb-17",
+				"code": "D-NUGOA",
+				"subtitle": null,
+				"value": "1680.00",
+				"retail_type": "Below Retail",
+				"retail_price": "1749.00",
+				"off_percent": null,
+				"cashback": null,
+				"above_retail_amount": null,
+				"back_in_sale": 1,
+				"beta_deal": 1,
+				"tracking_deadline_all": 0,
+				"show_to_beta_user": 1,
+				"reservation_closed_at": null,
+				"is_reservation_closed": 0,
+				"other_retailers": 1,
+				"other_retailers_text": "<ul class=\"v-list\"><li>Please contact us before purchasing from other retailers not listed on this page.<\/li><\/ul>",
+				"instructions": "",
+				"address_id": 84,
+				"available_addresses": "[1,2,7,84]",
+				"deal_order": 30,
+				"power": 0,
+				"status": "active",
+				"sil": 0,
+				"deal_links": [],
+				"exclusive_beta_deal": 0,
+				"created_by": 97,
+				"created_at": "2026-01-20 13:04:42",
+				"updated_at": "2026-01-25 11:22:02",
+				"recent_action_name": "new_retailer",
+				"recent_action_at": "2026-01-20 13:04:42",
+				"published_at": "2026-01-20 13:04:42",
+				"last_received": "2026-01-23 15:03:06",
+				"new_till": "2026-01-23",
+				"ends_at": null,
+				"accept_till": null,
+				"closing_note": "",
+				"deleted_at": null,
+				"deleted_by": null,
+				"multiple_items": 0,
+				"power_deal_info": null,
+				"is_shipping_label_visible": 0,
+				"combine_items": 0,
+				"shipping_label_links": null,
+				"users_count": 0,
+				"order_deals_count": 55,
+				"picture_url": "https:\/\/d2d0gtcnbylgtv.cloudfront.net\/9948\/Screenshot2024-10-31120004.png",
+				"picture_url_mobile": "https:\/\/d2d0gtcnbylgtv.cloudfront.net\/9948\/conversions\/Screenshot2024-10-31120004-mobile.jpg",
+				"picture_url_thumb": "https:\/\/d2d0gtcnbylgtv.cloudfront.net\/9948\/conversions\/Screenshot2024-10-31120004-thumb.jpg",
+				"new": false,
+				"subscribed": false,
+				"still_on_sale": 1,
+				"closed": false,
+				"retailer_names": [],
+				"retailer_links": [],
+				"closing_deals": 0,
+				"schedule_price": null,
+				"recently_reserved": 0,
+				"reservation_closed": false,
+				"expiration_date": null,
+				"expiration_note": "",
+				"tags": [
+					{
+						"id": 62,
+						"name": "Credit card rewards, cashback, and miles on your purchase",
+						"rel_to": "deals",
+						"type": "deal",
+						"benifit": "Credit card rewards, cashback, and miles on your purchase",
+						"pivot": {
+							"deal_id": 8009,
+							"tag_id": 62
+						}
+					},
+					{
+						"id": 2,
+						"name": "Increased credit card spend",
+						"rel_to": "deals",
+						"type": "deal",
+						"benifit": "Increased credit card spend",
+						"pivot": {
+							"deal_id": 8009,
+							"tag_id": 2
+						}
+					},
+					{
+						"id": 935,
+						"name": "$1,680.00 per unit",
+						"rel_to": "deals",
+						"type": "deal",
+						"benifit": "$1,680.00 per unit",
+						"pivot": {
+							"deal_id": 8009,
+							"tag_id": 935
+						}
+					}
+				],
+				"picture": {
+					"id": 9948,
+					"model_type": "App\\Models\\Deal",
+					"model_id": 8009,
+					"collection_name": "pictures",
+					"name": "Screenshot 2024-10-31 120004",
+					"file_name": "Screenshot2024-10-31120004.png",
+					"mime_type": "image\/png",
+					"disk": "s3",
+					"size": 281047,
+					"manipulations": [],
+					"custom_properties": {
+						"generated_conversions": {
+							"mobile": true,
+							"thumb": true
+						}
+					},
+					"responsive_images": [],
+					"order_column": 9848,
+					"created_at": "2026-01-20T18:04:42.000000Z",
+					"updated_at": "2026-01-20T18:04:42.000000Z"
+				},
+				"media": [
+					{
+						"id": 9948,
+						"model_type": "App\\Models\\Deal",
+						"model_id": 8009,
+						"collection_name": "pictures",
+						"name": "Screenshot 2024-10-31 120004",
+						"file_name": "Screenshot2024-10-31120004.png",
+						"mime_type": "image\/png",
+						"disk": "s3",
+						"size": 281047,
+						"manipulations": [],
+						"custom_properties": {
+							"generated_conversions": {
+								"mobile": true,
+								"thumb": true
+							}
+						},
+						"responsive_images": [],
+						"order_column": 9848,
+						"created_at": "2026-01-20T18:04:42.000000Z",
+						"updated_at": "2026-01-20T18:04:42.000000Z"
+					}
+				],
+				"retailers": [
+					{
+						"name": "Amazon",
+						"slug": "amazon",
+						"logo": "https:\/\/d2d0gtcnbylgtv.cloudfront.net\/2948\/Amazon.png",
+						"vendor_order": 4,
+						"in_stock": 1
+					},
+					{
+						"name": "Best Buy",
+						"slug": "best-buy",
+						"logo": "https:\/\/d2d0gtcnbylgtv.cloudfront.net\/2936\/Bestbuy.png",
+						"vendor_order": 15,
+						"in_stock": 0
+					}
+				],
+				"item_colors": [
+					{
+						"name": "Silver",
+						"code": "#E7E7E7FF"
+					},
+					{
+						"name": "Space Black",
+						"code": "#121212FF"
+					}
+				],
+				"deadline": false,
+				"any_tracking_deadline_set": false,
+				"is_tracking_deadline_same": true
+			}
+		],
+		"counts": {
+			"private": 0,
+			"all": 0,
+			"filtered": 4,
+			"closed": 0,
+			"still_on_sale": 0,
+			"subscribed": 0,
+			"isTopDeals": 0,
+			"unsubscribed": 0,
+			"exclusive": 0,
+			"new": 0
+		},
+		"source": "deals"
+	},
+	"pending_applaud": null
+}
