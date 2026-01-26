@@ -7,7 +7,7 @@ img: attachments/TODO.png
 desc: My todo list
 title: Things TODO
 dateCreated: 29-12-2025
-lastModified: 18-01-2026
+lastModified: 25-01-2026
 ---
 
 # Things TODO
@@ -94,3 +94,9 @@ lastModified: 18-01-2026
 ### 3179 A2
 
 - [x] Add new header template to allow for full page display for this project as well as potential others
+
+## NYC Jobs
+
+- [ ] CSYE chat
+- [ ] job slack
+- [ ] engel
