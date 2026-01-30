@@ -2,12 +2,12 @@
 author: Ari Gestetner
 aliases:
 tags:
-draft: false
+draft: true
 img: Blog/Projects/FOSS/attachments/Mdc.jpg
 desc: How I enable custom elements in nuxt mdc
 title: MDC
 dateCreated: 19-01-2026
-lastModified: 25-01-2026
+lastModified: 30-01-2026
 ---
 
 # MDC
