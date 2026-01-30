@@ -21,4 +21,4 @@ In terms of projects and experience, I've been building various websites includi
 
 Additionally, with relation to data science and ml, I've gained some practical and theoretical knowledge from my university coursework. Including time series econometrics and forecasting, machine learning, statistical modelling, Bayesian stat's and some computer vision. 
 
-Finally, with regards to operations research, as previously mentioned I worked as a research 
+Finally, with regards to operations research, as previously mentioned I worked as a research assistant and published
