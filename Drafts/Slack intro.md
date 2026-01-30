@@ -19,4 +19,6 @@ I'm currently open to work as a software eng, data science/mle or OR/optimisatio
 
 In terms of projects and experience, I've been building various websites including a personal site using nuxt for a few years. I have also been running a homeserver for the past year where I've learnt a lot about docker deployment and networking. 
 
-Additionally, with relation to data science and ml, I've gained some practical and theoretical knowledge from my university coursework. Including time series econ
+Additionally, with relation to data science and ml, I've gained some practical and theoretical knowledge from my university coursework. Including time series econometrics and forecasting, machine learning, statistical modelling, Bayesian stat's and some computer vision. 
+
+Finally, with regards to operations research, as previously mentioned I worked as a research 
