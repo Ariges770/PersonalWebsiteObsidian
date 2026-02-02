@@ -15,13 +15,15 @@ lastModified: 02-02-2026
 
 # Todo Kanban
 
+## Todo Kanban
+
 ## Untitled Kanban
 
 ## Todo
 
 ## Current
 
-- [ ] [[Blog/Projects/FOSS/MDC]]
+- [x] [[Blog/Projects/FOSS/MDC]]
 
 ## Complete
 

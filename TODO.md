@@ -14,7 +14,7 @@ lastModified: 02-02-2026
 
 ## Mathjax
 
-- [x] Change to chtml from svg
+- [ ] Change to chtml from svg
 
 ```ts
 'rehype-mathjax/chtml': {
