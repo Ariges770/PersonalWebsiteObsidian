@@ -23,7 +23,7 @@ lastModified: 02-02-2026
 
 ## Current
 
-- [x] [[Blog/Projects/FOSS/MDC]]
+- [ ] [[Blog/Projects/FOSS/MDC]]
 
 ## Complete
 
