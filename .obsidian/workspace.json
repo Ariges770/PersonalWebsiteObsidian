@@ -33,9 +33,19 @@
               "icon": "lucide-file",
               "title": "Setting Up N8N For Local Use"
             }
+          },
+          {
+            "id": "28bfe51bf2fd622a",
+            "type": "leaf",
+            "state": {
+              "type": "log-log",
+              "state": {},
+              "icon": "view-log",
+              "title": "Self-hosted LiveSync Log"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,11 +224,12 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "6ba71c8edf30a91d",
+  "active": "28bfe51bf2fd622a",
   "lastOpenFiles": [
+    "Blog/Welcome.md",
+    "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
     "Todo Kanban.md",
     "TODO.md",
-    "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
     "2026-02-05.md",
     "Base.base",
     "Drafts/Slack intro.md",
@@ -247,7 +258,6 @@
     "New folder",
     "Drafts/To Learn/Bezout's Identity.md",
     "2026-01-01.md",
-    "Blog/Welcome.md",
     "Blog/Projects/Sero/n8n.md",
     "2025-12-31.md",
     "Language/Hebrew/Journal/2025-12-30.md",
