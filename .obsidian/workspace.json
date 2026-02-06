@@ -33,19 +33,9 @@
               "icon": "lucide-file",
               "title": "Setting Up N8N For Local Use"
             }
-          },
-          {
-            "id": "28bfe51bf2fd622a",
-            "type": "leaf",
-            "state": {
-              "type": "log-log",
-              "state": {},
-              "icon": "view-log",
-              "title": "Self-hosted LiveSync Log"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +214,7 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "28bfe51bf2fd622a",
+  "active": "6ba71c8edf30a91d",
   "lastOpenFiles": [
     "Blog/Welcome.md",
     "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
