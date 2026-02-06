@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Todo Kanban.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Todo Kanban"
             }
           }
         ],
@@ -216,6 +216,7 @@
   },
   "active": "6ba71c8edf30a91d",
   "lastOpenFiles": [
+    "TODO.md",
     "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
     "2026-02-05.md",
     "Base.base",
@@ -250,7 +251,6 @@
     "Blog/Projects/Sero/n8n.md",
     "2025-12-31.md",
     "Language/Hebrew/Journal/2025-12-30.md",
-    "TODO.md",
     "attachments/TODO.png",
     "2025S2 Timetable.md",
     "Blog/Projects/Packware/Shipping.md",

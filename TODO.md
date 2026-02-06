@@ -7,7 +7,7 @@ img: attachments/TODO.png
 desc: My todo list
 title: Things TODO
 dateCreated: 29-12-2025
-lastModified: 02-02-2026
+lastModified: 06-02-2026
 ---
 
 # Things TODO
