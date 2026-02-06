@@ -211,16 +211,12 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "bases:Create new base": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "6ba71c8edf30a91d",
   "lastOpenFiles": [
+    "2026-02-05.md",
     "Base.base",
     "Todo Kanban.md",
     "Drafts/Slack intro.md",
@@ -247,7 +243,6 @@
     "Pdfs/978-3-031-95976-9.pdf",
     "Pdfs",
     "New folder",
-    "New Text Document.txt",
     "Drafts/To Learn/Bezout's Identity.md",
     "2026-01-01.md",
     "Blog/Welcome.md",
