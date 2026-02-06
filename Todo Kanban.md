@@ -9,7 +9,7 @@ desc:
 kanban-plugin: board
 title: Todo Kanban
 dateCreated: 02-02-2026
-lastModified: 02-02-2026
+lastModified: 06-02-2026
 
 ---
 
