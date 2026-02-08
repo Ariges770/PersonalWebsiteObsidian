@@ -7,7 +7,7 @@ img: Blog/Projects/Packware/attachments/Shipping.png
 desc: This is where I document my progress on my work for finding the best shipping prices for Packware
 title: Shipping
 dateCreated: 28-12-2025
-lastModified: 05-02-2026
+lastModified: 19-01-2026
 ---
 
 # Shipping
