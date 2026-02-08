@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
+                "file": "Self Learning/Stochastic Optimization and Reinforcement Learning Frameworks/Week 1 – Foundations & Statistical Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Setting Up N8N For Local Use"
+              "title": "Week 1 – Foundations & Statistical Learning"
             }
           }
         ],
@@ -214,15 +214,15 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "a046671f5555d5e1",
+  "active": "6ba71c8edf30a91d",
   "lastOpenFiles": [
+    "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
     "resume.md",
     "Self Learning/Stochastic Optimization and Reinforcement Learning Frameworks/Week 1 – Foundations & Statistical Learning.md",
     "Self Learning/Stochastic Optimization and Reinforcement Learning Frameworks",
     "Self Learning",
     "Blog/MoPC.md",
     "Blog/Welcome.md",
-    "Blog/Projects/N8N/Setting Up N8N For Local Use.md",
     "Todo Kanban.md",
     "TODO.md",
     "2026-02-05.md",

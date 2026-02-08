@@ -7,7 +7,7 @@ img:
 desc:
 title: Setting Up N8N For Local Use
 dateCreated: 31-12-2025
-lastModified: 05-02-2026
+lastModified: 09-02-2026
 ---
 
 # Setting Up N8N For Local Use
