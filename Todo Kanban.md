@@ -9,7 +9,7 @@ desc:
 kanban-plugin: board
 title: Todo Kanban
 dateCreated: 02-02-2026
-lastModified: 06-02-2026
+lastModified: 08-02-2026
 
 ---
 
@@ -17,13 +17,15 @@ lastModified: 06-02-2026
 
 ## Todo Kanban
 
+## Todo Kanban
+
 ## Untitled Kanban
 
 ## Todo
 
-## Current
-
 - [ ] [[Blog/Projects/FOSS/MDC]]
+
+## Current
 
 ## Complete
 

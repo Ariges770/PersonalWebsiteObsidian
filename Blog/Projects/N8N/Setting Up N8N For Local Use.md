@@ -7,7 +7,7 @@ img:
 desc:
 title: Setting Up N8N For Local Use
 dateCreated: 31-12-2025
-lastModified: 06-02-2026
+lastModified: 05-02-2026
 ---
 
 # Setting Up N8N For Local Use
@@ -103,5 +103,3 @@ volumes:
   n8n_data:
   n8n_db_data:
 ```
-
-This is testing my code
