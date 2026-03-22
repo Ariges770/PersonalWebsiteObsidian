@@ -1,3 +1,16 @@
+---
+author: Ari Gestetner
+aliases: 
+tags: 
+draft: true
+img:
+desc:
+title: Ai Template
+dateCreated: 15-03-2026
+lastModified: 16-03-2026
+---
+
+# Ai Template
 
 Here is some Hebrew text which I wrote for a journal which I want to write to improve my Hebrew. 
 
