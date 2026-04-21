@@ -212,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-livesync:Show Customization sync": false,
       "obsidian-livesync:P2P Replicator": false,
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
