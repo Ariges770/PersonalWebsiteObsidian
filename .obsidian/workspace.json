@@ -33,9 +33,21 @@
               "icon": "lucide-file",
               "title": "Week 1 – Foundations & Statistical Learning"
             }
+          },
+          {
+            "id": "f0fb5329b78f662d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,11 +222,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
-      "obsidian-livesync:Show Customization sync": false
+      "bases:Create new base": false
     }
   },
-  "active": "6ba71c8edf30a91d",
+  "active": "f0fb5329b78f662d",
   "lastOpenFiles": [
     "2026-03-16.md",
     "Language/Hebrew/Journal/Ai Template.md",
