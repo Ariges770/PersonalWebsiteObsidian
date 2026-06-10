@@ -222,8 +222,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
-      "obsidian-livesync:Show Customization sync": false
+      "bases:Create new base": false
     }
   },
   "active": "f0fb5329b78f662d",
